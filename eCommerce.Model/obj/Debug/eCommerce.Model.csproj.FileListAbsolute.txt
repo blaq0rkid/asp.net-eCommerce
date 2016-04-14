@@ -1,0 +1,7 @@
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.dll
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\Kelley\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
